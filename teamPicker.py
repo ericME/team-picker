@@ -31,7 +31,7 @@ class Round:
 		self.currentround = []
 
 	def play_round(self):
-		print ("*** playing round ", self.number, " ***")
+		#print ("*** playing round ", self.number, " ***")
 		for i, team in enumerate(self.division):
 			self.currentround.append(team)
 			if i % 2 == 1:
@@ -54,7 +54,7 @@ def play_series(teams, max_games = 7):
 		play_game(teams)
 		for team in teams:
 			if team.games_won >= series_clinched:
-				print (team.name, "wins in: ", game)
+				#print (team.name, "wins in: ", game)
 				return team
 	print ("error")
 	exit(0)
@@ -119,12 +119,22 @@ east = [BOS, DET,\
 		NYR, PHI]
 
 #determine conference champs
-western_champs = play_rounds(west)
-eastern_champs = play_rounds(east)
+# western_champs = play_rounds(west)
+# eastern_champs = play_rounds(east)
 
-print ("### and now ", western_champs.name, " will play ", eastern_champs.name, "for the stanley cup ###")
+# print ("### and now ", western_champs.name, " will play ", eastern_champs.name, "for the stanley cup ###")
 
-#play for the cup
-lord_stanley_goes_to = play_series([western_champs, eastern_champs])
+# #play for the cup
+# lord_stanley_goes_to = play_series([western_champs, eastern_champs])
 
-print ("!!! the cup goes to:", lord_stanley_goes_to.name, " !!!")
+# print ("!!! the cup goes to:", lord_stanley_goes_to.name, " !!!")
+
+winners = []
+m = 10000
+for i in range (m):
+	western_champs = play_rounds(west)
+	eastern_champs = play_rounds(east)
+	#play for the cup
+	winners.append(play_series([western_champs, eastern_champs]).name)
+print ("after", m, "iterations, the winner is:")
+print (max(set(winners), key=winners.count))
