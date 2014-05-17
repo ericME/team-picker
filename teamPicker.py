@@ -130,7 +130,7 @@ east = [BOS, DET,\
 # print ("!!! the cup goes to:", lord_stanley_goes_to.name, " !!!")
 
 winners = []
-m = 10000
+m = 1000
 for i in range (m):
 	western_champs = play_rounds(west)
 	eastern_champs = play_rounds(east)
@@ -138,3 +138,7 @@ for i in range (m):
 	winners.append(play_series([western_champs, eastern_champs]).name)
 print ("after", m, "iterations, the winner is:")
 print (max(set(winners), key=winners.count))
+for team in west:
+	print (team.name, winners.count(team.name))
+for team in east:
+	print (team.name, winners.count(team.name))
