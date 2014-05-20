@@ -6,6 +6,10 @@ sr = random.SystemRandom()
 random.randrange = sr.randrange
 random.randint = sr.randint
 
+#declare some global vars
+g_round_num = 0
+g_final_bkt = []
+
 class Team:
 	def __init__(self, name, rank, sapg, gapg, sfpg, gfpg):
 		self.name = name
@@ -32,6 +36,8 @@ class Round:
 
 	def play_round(self):
 		#print ("*** playing round ", self.number, " ***")
+		global g_round_num
+		g_round_num = self.number
 		for i, team in enumerate(self.division):
 			self.currentround.append(team)
 			if i % 2 == 1:
@@ -47,6 +53,7 @@ def play_rounds(division, max_rounds = 3):
 	return rnd.nextround[0]
 
 def play_series(teams, max_games = 7):
+	global g_final_bkt
 	series_clinched = math.floor(max_games/2 + 1)
 	for team in teams:
 		team.reset_games()
@@ -55,6 +62,7 @@ def play_series(teams, max_games = 7):
 		for team in teams:
 			if team.games_won >= series_clinched:
 				#print (team.name, "wins in: ", game)
+				g_final_bkt.append([g_round_num,team.name,game])
 				return team
 	print ("error")
 	exit(0)
@@ -130,15 +138,20 @@ east = [BOS, DET,\
 # print ("!!! the cup goes to:", lord_stanley_goes_to.name, " !!!")
 
 winners = []
-m = 1000
+m = 10
 for i in range (m):
 	western_champs = play_rounds(west)
 	eastern_champs = play_rounds(east)
 	#play for the cup
 	winners.append(play_series([western_champs, eastern_champs]).name)
 print ("after", m, "iterations, the winner is:")
-print (max(set(winners), key=winners.count))
+stanley = (max(set(winners), key=winners.count))
+print stanley
 for team in west:
 	print (team.name, winners.count(team.name))
 for team in east:
 	print (team.name, winners.count(team.name))
+#print g_final_bkt
+for ls in g_final_bkt:
+	if stanley in ls:
+		print ls
