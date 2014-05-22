@@ -1,0 +1,784 @@
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  6
+DAL wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+MIN wins in:  7
+DAL wins in:  6
+*** playing round  3  ***
+DAL wins in:  5
+*** playing round  1  ***
+DET wins in:  4
+TBL wins in:  6
+CBJ wins in:  7
+PHI wins in:  5
+*** playing round  2  ***
+TBL wins in:  4
+CBJ wins in:  7
+*** playing round  3  ***
+CBJ wins in:  6
+CBJ wins in:  6
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  6
+DAL wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+SJS wins in:  5
+*** playing round  3  ***
+SJS wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  7
+CBJ wins in:  6
+PHI wins in:  5
+*** playing round  2  ***
+BOS wins in:  4
+CBJ wins in:  6
+*** playing round  3  ***
+CBJ wins in:  4
+SJS wins in:  6
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  5
+ANA wins in:  7
+SJS wins in:  5
+*** playing round  2  ***
+COL wins in:  7
+ANA wins in:  7
+*** playing round  3  ***
+COL wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+CBJ wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+COL wins in:  6
+*** playing round  1  ***
+MIN wins in:  4
+STL wins in:  4
+ANA wins in:  7
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  4
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  5
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  6
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+DET wins in:  6
+PIT wins in:  7
+*** playing round  3  ***
+DET wins in:  7
+ANA wins in:  7
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  6
+DAL wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+LAK wins in:  7
+*** playing round  3  ***
+STL wins in:  4
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  5
+CBJ wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  4
+ANA wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  7
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+BOS wins in:  5
+BOS wins in:  6
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  6
+ANA wins in:  5
+SJS wins in:  5
+*** playing round  2  ***
+MIN wins in:  5
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  7
+PIT wins in:  4
+NYR wins in:  7
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+ANA wins in:  6
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  7
+DAL wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  4
+LAK wins in:  5
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+CBJ wins in:  4
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  7
+CBJ wins in:  6
+*** playing round  3  ***
+CBJ wins in:  6
+LAK wins in:  6
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  6
+ANA wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+SJS wins in:  6
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  5
+CBJ wins in:  6
+PHI wins in:  7
+*** playing round  2  ***
+MTL wins in:  7
+CBJ wins in:  6
+*** playing round  3  ***
+MTL wins in:  5
+STL wins in:  4
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  5
+ANA wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  6
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  5
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+MTL wins in:  6
+ANA wins in:  7
+after 10 iterations, the winner is:
+ANA
+COL 1
+MIN 0
+STL 1
+CHI 0
+ANA 3
+DAL 0
+SJS 1
+LAK 1
+BOS 1
+DET 0
+TBL 0
+MTL 0
+PIT 0
+CBJ 1
+NYR 1
+PHI 0
+[1, 'ANA', 7]
+[2, 'ANA', 7]
+[1, 'ANA', 7]
+[2, 'ANA', 5]
+[3, 'ANA', 5]
+[3, 'ANA', 7]
+[1, 'ANA', 7]
+[2, 'ANA', 7]
+[3, 'ANA', 6]
+[1, 'ANA', 5]
+[2, 'ANA', 7]
+[3, 'ANA', 6]
+[3, 'ANA', 6]
+[1, 'ANA', 7]
+[1, 'ANA', 7]
+[2, 'ANA', 5]
+[3, 'ANA', 6]
+[3, 'ANA', 7]
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+ANA wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  5
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  5
+*** playing round  3  ***
+BOS wins in:  7
+BOS wins in:  5
+BOS
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  5
+ANA wins in:  4
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  5
+ANA wins in:  7
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+CBJ wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+COL wins in:  7
+COL
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  4
+ANA wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  7
+LAK wins in:  4
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+DET wins in:  4
+MTL wins in:  6
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+MTL wins in:  5
+MTL wins in:  5
+MTL
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  7
+DAL wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+LAK wins in:  4
+*** playing round  3  ***
+LAK wins in:  4
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  4
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  6
+CBJ wins in:  7
+*** playing round  3  ***
+CBJ wins in:  5
+LAK wins in:  4
+LAK
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  4
+DAL wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  7
+SJS wins in:  4
+*** playing round  3  ***
+CHI wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  7
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+NYR
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  7
+ANA wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  6
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+CBJ wins in:  4
+PHI wins in:  7
+*** playing round  2  ***
+BOS wins in:  6
+PHI wins in:  6
+*** playing round  3  ***
+BOS wins in:  6
+BOS wins in:  4
+BOS
+*** playing round  1  ***
+MIN wins in:  6
+CHI wins in:  6
+ANA wins in:  7
+SJS wins in:  4
+*** playing round  2  ***
+CHI wins in:  5
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  6
+CBJ wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+BOS wins in:  5
+SJS wins in:  5
+SJS
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  7
+DAL wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+DAL wins in:  5
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  6
+CBJ wins in:  6
+PHI wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+PHI wins in:  6
+*** playing round  3  ***
+BOS wins in:  4
+COL wins in:  7
+COL
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  7
+DAL wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+STL wins in:  5
+LAK wins in:  7
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+CBJ wins in:  7
+*** playing round  3  ***
+BOS wins in:  5
+LAK wins in:  6
+LAK
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  6
+ANA wins in:  4
+SJS wins in:  5
+*** playing round  2  ***
+COL wins in:  5
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  4
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  4
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+NYR
+after 10 iterations, the winner is:
+NYR
+COL 2
+MIN 0
+STL 0
+CHI 0
+ANA 0
+DAL 0
+SJS 1
+LAK 2
+BOS 2
+DET 0
+TBL 0
+MTL 1
+PIT 0
+CBJ 0
+NYR 2
+PHI 0
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  5
+DAL wins in:  5
+SJS wins in:  5
+*** playing round  2  ***
+STL wins in:  4
+DAL wins in:  6
+*** playing round  3  ***
+STL wins in:  4
+*** playing round  1  ***
+DET wins in:  4
+MTL wins in:  5
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+NYR
+*** playing round  1  ***
+MIN wins in:  4
+STL wins in:  4
+ANA wins in:  5
+SJS wins in:  4
+*** playing round  2  ***
+STL wins in:  5
+ANA wins in:  6
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  7
+CBJ wins in:  5
+PHI wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+CBJ wins in:  6
+*** playing round  3  ***
+BOS wins in:  4
+BOS wins in:  6
+BOS
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  7
+DAL wins in:  4
+SJS wins in:  7
+*** playing round  2  ***
+COL wins in:  7
+SJS wins in:  5
+*** playing round  3  ***
+SJS wins in:  4
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  6
+CBJ wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  5
+CBJ wins in:  5
+*** playing round  3  ***
+CBJ wins in:  5
+SJS wins in:  7
+SJS
+*** playing round  1  ***
+MIN wins in:  4
+CHI wins in:  7
+DAL wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+CHI wins in:  5
+LAK wins in:  4
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  6
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+DET wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  6
+ANA wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+ANA wins in:  6
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  4
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  7
+PIT wins in:  7
+*** playing round  3  ***
+MTL wins in:  5
+STL wins in:  6
+STL
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  5
+DAL wins in:  7
+LAK wins in:  6
+*** playing round  2  ***
+CHI wins in:  4
+LAK wins in:  7
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  6
+CBJ wins in:  4
+NYR wins in:  7
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  4
+LAK wins in:  6
+LAK
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  7
+ANA wins in:  7
+LAK wins in:  4
+*** playing round  2  ***
+CHI wins in:  5
+LAK wins in:  7
+*** playing round  3  ***
+CHI wins in:  6
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  4
+PIT wins in:  7
+PHI wins in:  7
+*** playing round  2  ***
+DET wins in:  7
+PHI wins in:  6
+*** playing round  3  ***
+DET wins in:  7
+CHI wins in:  6
+CHI
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  4
+DAL wins in:  6
+LAK wins in:  5
+*** playing round  2  ***
+STL wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  7
+CBJ wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  7
+CBJ wins in:  6
+*** playing round  3  ***
+CBJ wins in:  6
+STL wins in:  4
+STL
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  5
+ANA wins in:  4
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  5
+ANA wins in:  4
+*** playing round  3  ***
+ANA wins in:  4
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  5
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+ANA wins in:  6
+ANA
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  6
+ANA wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+ANA wins in:  5
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  4
+PIT wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+TBL wins in:  6
+TBL wins in:  4
+TBL
+after 10 iterations, the winner is:
+STL
+COL 0
+MIN 0
+STL 2
+CHI 1
+ANA 1
+DAL 0
+SJS 1
+LAK 1
+BOS 1
+DET 0
+TBL 1
+MTL 0
+PIT 0
+CBJ 0
+NYR 2
+PHI 0
+[1, 'STL', 5]
+[2, 'STL', 4]
+[3, 'STL', 4]
+[1, 'STL', 4]
+[2, 'STL', 5]
+[3, 'STL', 7]
+[1, 'STL', 7]
+[1, 'STL', 6]
+[2, 'STL', 6]
+[3, 'STL', 7]
+[3, 'STL', 6]
+[1, 'STL', 4]
+[2, 'STL', 6]
+[3, 'STL', 5]
+[3, 'STL', 4]
+[1, 'STL', 6]
+[2, 'STL', 6]
+[3, 'STL', 6]
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  4
+DAL wins in:  5
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  5
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+PIT wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+STL wins in:  6
+STL
+after 1 iterations, the winner is:
+STL
+COL 0
+MIN 0
+STL 1
+CHI 0
+ANA 0
+DAL 0
+SJS 0
+LAK 0
+BOS 0
+DET 0
+TBL 0
+MTL 0
+PIT 0
+CBJ 0
+NYR 0
+PHI 0
+[1, 'STL', 4]
+[2, 'STL', 5]
+[3, 'STL', 5]
+[3, 'STL', 6]

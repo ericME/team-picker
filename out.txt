@@ -1,0 +1,5104 @@
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  5
+DAL wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+LAK wins in:  5
+*** playing round  3  ***
+STL wins in:  4
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  6
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  7
+ANA wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+MIN wins in:  7
+SJS wins in:  6
+*** playing round  3  ***
+MIN wins in:  6
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  7
+CBJ wins in:  5
+NYR wins in:  4
+*** playing round  2  ***
+DET wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  5
+ANA wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  6
+LAK wins in:  5
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+PIT wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  7
+ANA wins in:  6
+SJS wins in:  4
+*** playing round  2  ***
+MIN wins in:  7
+SJS wins in:  6
+*** playing round  3  ***
+MIN wins in:  6
+*** playing round  1  ***
+DET wins in:  4
+MTL wins in:  7
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  6
+ANA wins in:  7
+SJS wins in:  5
+*** playing round  2  ***
+MIN wins in:  7
+SJS wins in:  7
+*** playing round  3  ***
+MIN wins in:  6
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  6
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  7
+DAL wins in:  5
+LAK wins in:  5
+*** playing round  2  ***
+STL wins in:  7
+DAL wins in:  6
+*** playing round  3  ***
+STL wins in:  4
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  5
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  4
+DAL wins in:  4
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  4
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  5
+CBJ wins in:  4
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  6
+ANA wins in:  7
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  4
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  7
+PIT wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+CHI wins in:  6
+DAL wins in:  4
+SJS wins in:  6
+*** playing round  2  ***
+CHI wins in:  6
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  4
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  7
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  6
+DAL wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+COL wins in:  7
+DAL wins in:  5
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  7
+PIT wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+DET wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  6
+ANA wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  6
+ANA wins in:  4
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  6
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  6
+DAL wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+MIN wins in:  4
+DAL wins in:  6
+*** playing round  3  ***
+DAL wins in:  5
+*** playing round  1  ***
+DET wins in:  5
+TBL wins in:  7
+CBJ wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  4
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  6
+ANA wins in:  5
+LAK wins in:  5
+*** playing round  2  ***
+STL wins in:  7
+LAK wins in:  7
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+PIT wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  6
+DAL wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+LAK wins in:  6
+*** playing round  3  ***
+STL wins in:  4
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  6
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  7
+CBJ wins in:  5
+*** playing round  3  ***
+CBJ wins in:  7
+STL wins in:  5
+
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  6
+ANA wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  5
+PIT wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+DET wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+CHI wins in:  6
+DAL wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+CHI wins in:  6
+LAK wins in:  4
+*** playing round  3  ***
+CHI wins in:  7
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  7
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  7
+ANA wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  4
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  7
+DAL wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  4
+LAK wins in:  5
+*** playing round  3  ***
+COL wins in:  5
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  7
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  5
+DAL wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  7
+DAL wins in:  6
+*** playing round  3  ***
+DAL wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+CHI wins in:  7
+DAL wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+CHI wins in:  4
+SJS wins in:  4
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  7
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+DET wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  7
+ANA wins in:  7
+LAK wins in:  4
+*** playing round  2  ***
+STL wins in:  4
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  4
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  4
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  6
+DAL wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+SJS wins in:  4
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  5
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  7
+DAL wins in:  4
+SJS wins in:  7
+*** playing round  2  ***
+MIN wins in:  5
+SJS wins in:  7
+*** playing round  3  ***
+MIN wins in:  5
+*** playing round  1  ***
+DET wins in:  5
+TBL wins in:  4
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  4
+DAL wins in:  5
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  6
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  4
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  7
+DAL wins in:  5
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  4
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+DET wins in:  5
+TBL wins in:  6
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+COL wins in:  7
+STL wins in:  4
+DAL wins in:  7
+SJS wins in:  5
+*** playing round  2  ***
+COL wins in:  5
+SJS wins in:  5
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  4
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  7
+DAL wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  7
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  4
+PIT wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  5
+DAL wins in:  6
+LAK wins in:  4
+*** playing round  2  ***
+MIN wins in:  6
+LAK wins in:  5
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  4
+ANA wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  7
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  6
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  5
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+DET wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  7
+DAL wins in:  4
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  5
+CBJ wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+CHI wins in:  6
+DAL wins in:  7
+LAK wins in:  4
+*** playing round  2  ***
+MIN wins in:  4
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  4
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+CBJ wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+ANA wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+LAK wins in:  4
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  4
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  6
+DAL wins in:  5
+LAK wins in:  5
+*** playing round  2  ***
+CHI wins in:  5
+LAK wins in:  7
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  6
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+DET wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  7
+ANA wins in:  4
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  4
+ANA wins in:  4
+*** playing round  3  ***
+COL wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+CBJ wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  7
+ANA wins in:  4
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  6
+ANA wins in:  6
+*** playing round  3  ***
+COL wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  7
+ANA wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+CHI wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+DET wins in:  4
+TBL wins in:  6
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  5
+ANA wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  7
+LAK wins in:  6
+*** playing round  3  ***
+COL wins in:  4
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  6
+CBJ wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+CBJ wins in:  7
+*** playing round  3  ***
+CBJ wins in:  7
+CBJ wins in:  6
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  5
+ANA wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  7
+ANA wins in:  7
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  6
+CBJ wins in:  4
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  6
+DAL wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  5
+LAK wins in:  7
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  6
+PIT wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  4
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  7
+DAL wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+STL wins in:  7
+DAL wins in:  5
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  7
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  4
+ANA wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+LAK wins in:  5
+*** playing round  3  ***
+LAK wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  7
+PIT wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  5
+PIT wins in:  6
+*** playing round  3  ***
+PIT wins in:  6
+PIT wins in:  6
+
+*** playing round  1  ***
+MIN wins in:  5
+CHI wins in:  5
+DAL wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+MIN wins in:  5
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  5
+DAL wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+STL wins in:  7
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  7
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  6
+DAL wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+SJS wins in:  7
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  5
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  4
+ANA wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  7
+ANA wins in:  6
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  5
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  7
+DAL wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+LAK wins in:  7
+*** playing round  3  ***
+STL wins in:  4
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  6
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  6
+DAL wins in:  5
+LAK wins in:  5
+*** playing round  2  ***
+COL wins in:  5
+DAL wins in:  5
+*** playing round  3  ***
+DAL wins in:  4
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  5
+PIT wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  4
+ANA wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+COL wins in:  7
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  6
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  4
+DAL wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+MIN wins in:  7
+SJS wins in:  4
+*** playing round  3  ***
+SJS wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  7
+CBJ wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  5
+DAL wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+CHI wins in:  7
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  7
+CBJ wins in:  4
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+CHI wins in:  7
+ANA wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  5
+ANA wins in:  5
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  6
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  4
+ANA wins in:  4
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  4
+SJS wins in:  5
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  7
+CBJ wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  6
+ANA wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  4
+ANA wins in:  6
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+DET wins in:  4
+MTL wins in:  5
+PIT wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in: *** playing round  1  ***
+COL wins in:  7
+STL wins in:  7
+DAL wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  6
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  4
+CBJ wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  7
+ANA wins in:  4
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  4
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+CHI wins in:  5
+ANA wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+MIN wins in:  7
+ANA wins in:  6
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  5
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  6
+ANA wins in:  5
+LAK wins in:  5
+*** playing round  2  ***
+COL wins in:  6
+LAK wins in:  5
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  4
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  7
+DAL wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  4
+DAL wins in:  6
+*** playing round  3  ***
+DAL wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  6
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  4
+DAL wins in:  6
+SJS wins in:  4
+*** playing round  2  ***
+STL wins in:  4
+SJS wins in:  5
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  4
+CBJ wins in:  4
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+CHI wins in:  6
+ANA wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+CHI wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  6
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  7
+ANA wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+STL wins in:  6
+SJS wins in:  5
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  7
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  7
+ANA wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  7
+SJS wins in:  7
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  5
+PIT wins in:  5
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  7
+ANA wins in:  5
+SJS wins in:  5
+*** playing round  2  ***
+STL wins in:  4
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  6
+PIT wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  6
+DAL wins in:  7
+LAK wins in:  6
+*** playing round  2  ***
+CHI wins in:  7
+LAK wins in:  4
+*** playing round  3  ***
+CHI wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  5
+CBJ wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  6
+ANA wins in:  7
+SJS wins in:  5
+*** playing round  2  ***
+COL wins in:  4
+SJS wins in:  5
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  7
+DAL wins in:  5
+LAK wins in:  5
+*** playing round  2  ***
+COL wins in:  5
+DAL wins in:  6
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  4
+CBJ wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  6
+DAL wins in:  5
+SJS wins in:  4
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  4
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+DET wins in:  4
+MTL wins in:  7
+CBJ wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+DET wins in:  4
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  6
+ANA wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  7
+ANA wins in:  7
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  5
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  7
+ANA wins in:  7
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  6
+LAK wins in:  5
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  6
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  7
+ANA wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  5
+ANA wins in:  5
+*** playing round  3  ***
+CHI wins in:  4
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  5
+PIT wins in:  4
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  5
+ANA wins in:  4
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  4
+SJS wins in:  6
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+DET wins in:  4
+MTL wins in:  5
+PIT wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  5
+DAL wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+LAK wins in:  4
+*** playing round  3  ***
+LAK wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  6
+ANA wins in:  6
+LAK wins in:  4
+*** playing round  2  ***
+CHI wins in:  5
+LAK wins in:  6
+*** playing round  3  ***
+CHI wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+TBL wins in:  7
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+CHI wins in:  7
+ANA wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+CHI wins in:  7
+LAK wins in:  5
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  6
+DAL wins in:  6
+LAK wins in:  4
+*** playing round  2  ***
+COL wins in:  6
+LAK wins in:  5
+*** playing round  3  ***
+LAK wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  6
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+** playing round  1  ***
+COL wins in:  7
+STL wins in:  7
+DAL wins in:  4
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  6
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  7
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  4
+DAL wins in:  4
+LAK wins in:  6
+*** playing round  2  ***
+CHI wins in:  5
+LAK wins in:  7
+*** playing round  3  ***
+LAK wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  5
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  7
+DAL wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+CHI wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  6
+DAL wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+LAK wins in:  6
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  7
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+DET wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  4
+DAL wins in:  4
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  6
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  4
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  7
+ANA wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+MIN wins in:  7
+LAK wins in:  4
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  5
+CBJ wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+COL wins in:  7
+STL wins in:  4
+DAL wins in:  7
+LAK wins in:  4
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  6
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	The cup goes to: NYR*** playing round  1  ***
+MIN wins in:  5
+CHI wins in:  7
+DAL wins in:  6
+LAK wins in:  5
+*** playing round  2  ***
+CHI wins in:  6
+DAL wins in:  7
+*** playing round  3  ***
+CHI wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  5
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  6
+ANA wins in:  4
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  6
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  6
+DAL wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  7
+PIT wins in:  4
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  4
+ANA wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  6
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  5
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  6
+ANA wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+MIN wins in:  7
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  6
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  6
+DAL wins in:  4
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  5
+DAL wins in:  6
+*** playing round  3  ***
+DAL wins in:  4
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  7
+CBJ wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  4
+STL wins in:  5
+DAL wins in:  6
+LAK wins in:  5
+*** playing round  2  ***
+STL wins in:  4
+LAK wins in:  5
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+DET wins in:  5
+TBL wins in:  4
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  4
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  5
+ANA wins in:  7
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+ANA wins in:  6
+*** playing round  3  ***
+ANA wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  6
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+ANA wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  7
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  4
+ANA wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+MIN wins in:  7
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  6
+PIT wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  4
+DAL wins in:  4
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+LAK wins in:  4
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+CBJ wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  7
+DAL wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  5
+DAL wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+LAK wins in:  4
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  4
+PIT wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  5
+ANA wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  6
+*** playing round  3  ***
+STL wins in:  4
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  6
+ANA wins in:  7
+LAK wins in:  6
+*** playing round  2  ***
+MIN wins in:  7
+LAK wins in:  7
+*** playing round  3  ***
+MIN wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+PIT wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  6
+DAL wins in:  6
+SJS wins in:  4
+*** playing round  2  ***
+STL wins in:  6
+DAL wins in:  7
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  7
+CBJ wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+ANA wins in:  5
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  4
+SJS wins in:  5
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  6
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+ANA wins in:  4
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  4
+ANA wins in:  5
+*** playing round  3  ***
+STL wins in:  4
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  5
+PIT wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+DET wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  5
+ANA wins in:  5
+LAK wins in:  5
+*** playing round  2  ***
+STL wins in:  6
+ANA wins in:  7
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  7
+CBJ wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+DET wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NY
+** playing round  1  ***
+COL wins in:  6
+STL wins in:  7
+ANA wins in:  7
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  5
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  4
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+DET wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  5
+DAL wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+DAL wins in:  4
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+PIT wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  7
+ANA wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+CHI wins in:  7
+LAK wins in:  6
+*** playing round  3  ***
+CHI wins in:  7
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  6
+CBJ wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+DET wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  6
+ANA wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+ANA wins in:  4
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  7
+CBJ wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  7
+DAL wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  5
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  5
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  7
+DAL wins in:  7
+LAK wins in:  6
+*** playing round  2  ***
+CHI wins in:  6
+LAK wins in:  7
+*** playing round  3  ***
+CHI wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  6
+PIT wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+DET wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  5
+DAL wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  5
+SJS wins in:  7
+*** playing round  3  ***
+CHI wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  7
+CBJ wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  4
+STL wins in:  6
+ANA wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+STL wins in:  6
+ANA wins in:  6
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  6
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  4
+PIT wins in:  5
+*** playing round  3  ***
+BOS wins in:  5
+STL wins in:  4
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  5
+ANA wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  4
+SJS wins in:  5
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+PIT wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  7
+ANA wins in:  7
+SJS wins in:  4
+*** playing round  2  ***
+COL wins in:  5
+SJS wins in:  7
+*** playing round  3  ***
+COL wins in:  5
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  5
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  4
+ANA wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  7
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+CBJ wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  6
+ANA wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+MIN wins in:  5
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  4
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  5
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+ANA wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  7
+LAK wins in:  5
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  7
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  7
+DAL wins in:  4
+SJS wins in:  5
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  4
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  7
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  5
+ANA wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+SJS wins in:  4
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+CBJ wins in:  4
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+ANA wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  6
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  4
+DAL wins in:  4
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  6
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  7
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+CHI wins in:  6
+DAL wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+COL wins in:  7
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  4
+ANA wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+COL wins in:  7
+ANA wins in:  4
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+TBL wins in:  5
+PIT wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  5
+DAL wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+MIN wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  6
+CBJ wins in:  4
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  7
+ANA wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+STL wins in:  6
+SJS wins in:  5
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  7
+DAL wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+CHI wins in:  7
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  5
+CBJ wins in:  4
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+DAL wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  5
+PIT wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  5
+PIT wins in:  7
+*** playing round  3  ***
+PIT wins in:  6
+PIT wins in:  6
+*** playing round  1  ***
+COL wins in:  4
+CHI wins in:  5
+ANA wins in:  7
+LAK wins in:  4
+*** playing round  2  ***
+CHI wins in:  4
+LAK wins in:  5
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  4
+PIT wins in:  5
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  4
+ANA wins in:  6
+SJS wins in:  4
+*** playing round  2  ***
+STL wins in:  4
+ANA wins in:  6
+*** playing round  3  ***
+ANA wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  4
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  5
+ANA wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  6
+CBJ wins in:  5
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  7
+DAL wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  7
+SJS wins in:  5
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  5
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+CHI wins in:  7
+ANA wins in:  7
+SJS wins in:  4
+*** playing round  2  ***
+MIN wins in:  4
+SJS wins in:  5
+*** playing round  3  ***
+MIN wins in:  5
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  6
+PIT wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  4
+STL wins in:  4
+ANA wins in:  4
+SJS wins in:  4
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  5
+CBJ wins in:  4
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  5
+DAL wins in:  4
+SJS wins in:  7
+*** playing round  2  ***
+MIN wins in:  5
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+CBJ wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  7
+DAL wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+STL wins in:  7
+DAL wins in:  5
+*** playing round  3  ***
+DAL wins in:  6
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  6
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  4
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+CHI wins in:  6
+DAL wins in:  6
+LAK wins in:  5
+*** playing round  2  ***
+MIN wins in:  5
+DAL wins in:  6
+*** playing round  3  ***
+MIN wins in:  6
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  4
+PIT wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  4
+ANA wins in:  5
+SJS wins in:  5
+*** playing round  2  ***
+CHI wins in:  6
+ANA wins in:  7
+*** playing round  3  ***
+CHI wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  6
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  5
+DAL wins in:  5
+SJS wins in:  4
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  6
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  4
+CBJ wins in:  4
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  4
+DAL wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  4
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  4
+CBJ wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR*** playing round  1  ***
+COL wins in:  7
+STL wins in:  4
+ANA wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  5
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  4
+PIT wins in:  5
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  5
+DAL wins in:  5
+LAK wins in:  5
+*** playing round  2  ***
+CHI wins in:  6
+DAL wins in:  4
+*** playing round  3  ***
+CHI wins in:  7
+*** playing round  1  ***
+DET wins in:  5
+TBL wins in:  6
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+DET wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  4
+DAL wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+LAK wins in:  7
+*** playing round  3  ***
+LAK wins in:  4
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  7
+PIT wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  4
+PIT wins in:  6
+*** playing round  3  ***
+PIT wins in:  4
+LAK wins in:  4
+
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  5
+ANA wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+MIN wins in:  7
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+PIT wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+CHI wins in:  6
+ANA wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+MIN wins in:  6
+ANA wins in:  5
+*** playing round  3  ***
+MIN wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  6
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  7
+ANA wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+SJS wins in:  5
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+DET wins in:  5
+TBL wins in:  6
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  5
+DAL wins in:  4
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  4
+SJS wins in:  6
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  4
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  5
+DAL wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  7
+CBJ wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  7
+ANA wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+MIN wins in:  7
+ANA wins in:  6
+*** playing round  3  ***
+MIN wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  5
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  7
+DAL wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  5
+*** playing round  3  ***
+SJS wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  6
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  7
+DAL wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  7
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+CHI wins in:  6
+DAL wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+DAL wins in:  6
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+CHI wins in:  7
+DAL wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  4
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  7
+PIT wins in:  4
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  7
+DAL wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  7
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  5
+PIT wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  7
+ANA wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  7
+SJS wins in:  4
+*** playing round  3  ***
+SJS wins in:  4
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  7
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+CHI wins in:  7
+DAL wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+CHI wins in:  6
+SJS wins in:  6
+*** playing round  3  ***
+CHI wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  6
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+CHI wins in:  5
+ANA wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+CHI wins in:  6
+LAK wins in:  7
+*** playing round  3  ***
+CHI wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  7
+PIT wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  7
+PIT wins in:  7
+*** playing round  3  ***
+PIT wins in:  7
+PIT wins in:  5
+	*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  6
+DAL wins in:  7
+SJS wins in:  4
+*** playing round  2  ***
+STL wins in:  4
+DAL wins in:  6
+*** playing round  3  ***
+DAL wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  7
+PIT wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  7
+DAL wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  4
+DAL wins in:  5
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  5
+PIT wins in:  4
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  4
+DAL wins in:  4
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  4
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+TBL wins in:  5
+CBJ wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	*** playing round  1  ***
+COL wins in:  7
+STL wins in:  6
+DAL wins in:  7
+LAK wins in:  4
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  7
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+TBL wins in:  5
+PIT wins in:  4
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  6
+DAL wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  4
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  7
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+CHI wins in:  7
+ANA wins in:  4
+SJS wins in:  5
+*** playing round  2  ***
+CHI wins in:  7
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  4
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+PIT wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  5
+DAL wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  4
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  6
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  5
+DAL wins in:  6
+SJS wins in:  4
+*** playing round  2  ***
+STL wins in:  7
+DAL wins in:  6
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  7
+PIT wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  7
+DAL wins in:  6
+LAK wins in:  5
+*** playing round  2  ***
+COL wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+COL wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+TBL wins in:  7
+PIT wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  4
+STL wins in:  5
+ANA wins in:  4
+LAK wins in:  7
+*** playing round  2  ***
+MIN wins in:  7
+LAK wins in:  5
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  5
+PIT wins in:  5
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  6
+DAL wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  5
+*** playing round  3  ***
+DAL wins in:  6
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  6
+CBJ wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  6
+ANA wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+CHI wins in:  6
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  6
+CBJ wins in:  4
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  6
+DAL wins in:  5
+LAK wins in:  4
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  4
+*** playing round  3  ***
+DAL wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  7
+CBJ wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  6
+ANA wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  6
+PIT wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  6
+ANA wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+CHI wins in:  7
+LAK wins in:  7
+*** playing round  3  ***
+LAK wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  4
+CBJ wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  4
+ANA wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+SJS wins in:  5
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  6
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+CHI wins in:  4
+ANA wins in:  5
+SJS wins in:  7
+*** playing round  2  ***
+CHI wins in:  5
+ANA wins in:  7
+*** playing round  3  ***
+CHI wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+CBJ wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+*** playing round  1  ***
+MIN wins in:  4
+STL wins in:  6
+DAL wins in:  4
+LAK wins in:  6
+*** playing round  2  ***
+MIN wins in:  7
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  6
+CBJ wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  6
+DAL wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  4
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+PIT wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  5
+ANA wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+LAK wins in:  4
+*** playing round  3  ***
+LAK wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  6
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+ANA wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+COL wins in:  4
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  7
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  7
+ANA wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+CHI wins in:  5
+ANA wins in:  6
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  6
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  5
+DAL wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  4
+LAK wins in:  7
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  6
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  5
+DAL wins in:  4
+LAK wins in:  7
+*** playing round  2  ***
+MIN wins in:  4
+LAK wins in:  6
+*** playing round  3  ***
+MIN wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  7
+PIT wins in:  5
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  6
+ANA wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+STL wins in:  4
+LAK wins in:  7
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  7
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  5
+DAL wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  6
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  6
+PIT wins in:  4
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  6
+DAL wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+LAK wins in:  4
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  5
+PIT wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  6
+DAL wins in:  7
+SJS wins in:  5
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+DET wins in:  4
+MTL wins in:  7
+PIT wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  6
+DAL wins in:  6
+SJS wins in:  4
+*** playing round  2  ***
+COL wins in:  4
+DAL wins in:  4
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  5
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  6
+ANA wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  5
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+CHI wins in:  6
+DAL wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+MIN wins in:  7
+SJS wins in:  5
+*** playing round  3  ***
+MIN wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  6
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  7
+DAL wins in:  4
+SJS wins in:  7
+*** playing round  2  ***
+COL wins in:  4
+SJS wins in:  5
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+CBJ wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  6
+ANA wins in:  5
+SJS wins in:  7
+*** playing round  2  ***
+COL wins in:  4
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  6
+PIT wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  7
+ANA wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+ANA wins in:  6
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  6
+CBJ wins in:  4
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+CHI wins in:  6
+DAL wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+CHI wins in:  5
+SJS wins in:  6
+*** playing round  3  ***
+CHI wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  6
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+DAL wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+SJS wins in:  4
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  4
+CBJ wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  4
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  5
+DAL wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  4
+LAK wins in:  6
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  5
+CBJ wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+CHI wins in:  6
+ANA wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  5
+LAK wins in:  6
+*** playing round  3  ***
+COL wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  5
+PIT wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  4
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  6
+DAL wins in:  7
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  6
+LAK wins in:  5
+*** playing round  3  ***
+COL wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  6
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  4
+DAL wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+DAL wins in:  7
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  7
+CBJ wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  4
+ANA wins in:  7
+SJS wins in:  4
+*** playing round  2  ***
+STL wins in:  4
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  5
+*** playing round  1  ***
+DET wins in:  4
+MTL wins in:  5
+PIT wins in:  5
+NYR wins in:  4
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  5
+ANA wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  5
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  7
+ANA wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+ANA wins in:  6
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  7
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  7
+ANA wins in:  4
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  4
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  7
+ANA wins in:  7
+LAK wins in:  4
+*** playing round  2  ***
+STL wins in:  4
+LAK wins in:  6
+*** playing round  3  ***
+STL wins in:  6
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  4
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  7
+DAL wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+BOS wins in:  4
+TBL wins in:  7
+CBJ wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  5
+ANA wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+COL wins in:  5
+ANA wins in:  7
+*** playing round  3  ***
+COL wins in:  4
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  6
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  7
+DAL wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+DAL wins in:  5
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  4
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  6
+ANA wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+ANA wins in:  7
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  6
+CBJ wins in:  7
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  7
+ANA wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+LAK wins in:  5
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+MTL wins in:  6
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  6
+DAL wins in:  4
+SJS wins in:  5
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  4
+*** playing round  3  ***
+DAL wins in:  5
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  4
+CBJ wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  7
+ANA wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+MIN wins in:  6
+ANA wins in:  6
+*** playing round  3  ***
+MIN wins in:  7
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  7
+PIT wins in:  5
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+MIN wins in:  6
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  5
+ANA wins in:  4
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  4
+LAK wins in:  7
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  5
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  5
+DAL wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+CHI wins in:  7
+DAL wins in:  7
+*** playing round  3  ***
+CHI wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  5
+CBJ wins in:  4
+NYR wins in:  5
+*** playing round  2  ***
+MTL wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  6
+DAL wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  5
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  5
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  5
+DAL wins in:  6
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  7
+DAL wins in:  4
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  6
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+CHI wins in:  6
+DAL wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+MIN wins in:  6
+DAL wins in:  5
+*** playing round  3  ***
+DAL wins in:  6
+*** playing round  1  ***
+DET wins in:  4
+MTL wins in:  7
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+DET wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  4
+DAL wins in:  5
+LAK wins in:  6
+*** playing round  2  ***
+COL wins in:  7
+DAL wins in:  6
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  7
+PIT wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+1  ***
+COL wins in:  6
+CHI wins in:  6
+DAL wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+CHI wins in:  6
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+BOS wins in:  4
+TBL wins in:  5
+CBJ wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  6
+DAL wins in:  7
+SJS wins in:  7
+*** playing round  2  ***
+STL wins in:  6
+DAL wins in:  6
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+DET wins in:  5
+MTL wins in:  6
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+CHI wins in:  6
+ANA wins in:  6
+SJS wins in:  7
+*** playing round  2  ***
+COL wins in:  5
+SJS wins in:  5
+*** playing round  3  ***
+COL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  7
+PIT wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+TBL wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  4
+ANA wins in:  5
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  7
+*** playing round  1  ***
+BOS wins in:  5
+TBL wins in:  7
+CBJ wins in:  4
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  5
+DAL wins in:  6
+LAK wins in:  5
+*** playing round  2  ***
+COL wins in:  7
+LAK wins in:  7
+*** playing round  3  ***
+COL wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  6
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+STL wins in:  6
+DAL wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+STL wins in:  5
+DAL wins in:  4
+*** playing round  3  ***
+STL wins in:  4
+*** playing round  1  ***
+BOS wins in:  6
+MTL wins in:  6
+PIT wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  7
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+CHI wins in:  6
+DAL wins in:  7
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  6
+LAK wins in:  7
+*** playing round  3  ***
+LAK wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  7
+CBJ wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  4
+ANA wins in:  5
+LAK wins in:  7
+*** playing round  2  ***
+COL wins in:  6
+ANA wins in:  6
+*** playing round  3  ***
+ANA wins in:  5
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  6
+PIT wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  7
+STL wins in:  7
+ANA wins in:  7
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+SJS wins in:  7
+*** playing round  3  ***
+SJS wins in:  6
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  7
+PIT wins in:  7
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+DAL wins in:  4
+SJS wins in:  6
+*** playing round  2  ***
+COL wins in:  4
+SJS wins in:  5
+*** playing round  3  ***
+SJS wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  7
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  7
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+STL wins in:  4
+DAL wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  4
+LAK wins in:  4
+*** playing round  3  ***
+LAK wins in:  5
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  7
+CBJ wins in:  6
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  4
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+DAL wins in:  7
+LAK wins in:  4
+*** playing round  2  ***
+STL wins in:  6
+DAL wins in:  5
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+DET wins in:  7
+TBL wins in:  6
+PIT wins in:  6
+NYR wins in:  4
+*** playing round  2  ***
+DET wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  4
+STL wins in:  6
+ANA wins in:  6
+LAK wins in:  6
+*** playing round  2  ***
+STL wins in:  6
+LAK wins in:  6
+*** playing round  3  ***
+LAK wins in:  6
+*** playing round  1  ***
+BOS wins in:  7
+MTL wins in:  6
+CBJ wins in:  5
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  6
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  6
+STL wins in:  5
+ANA wins in:  4
+SJS wins in:  5
+*** playing round  2  ***
+COL wins in:  5
+ANA wins in:  5
+*** playing round  3  ***
+ANA wins in:  6
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  6
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+COL wins in:  5
+STL wins in:  5
+DAL wins in:  7
+SJS wins in:  5
+*** playing round  2  ***
+COL wins in:  4
+DAL wins in:  7
+*** playing round  3  ***
+DAL wins in:  7
+*** playing round  1  ***
+BOS wins in:  7
+TBL wins in:  6
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  5
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  7
+ANA wins in:  7
+LAK wins in:  5
+*** playing round  2  ***
+STL wins in:  7
+LAK wins in:  4
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+BOS wins in:  6
+TBL wins in:  5
+PIT wins in:  6
+NYR wins in:  7
+*** playing round  2  ***
+TBL wins in:  6
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  7
+DAL wins in:  4
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  5
+SJS wins in:  6
+*** playing round  3  ***
+STL wins in:  7
+*** playing round  1  ***
+DET wins in:  6
+MTL wins in:  5
+CBJ wins in:  7
+NYR wins in:  7
+*** playing round  2  ***
+MTL wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  5
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  7
+CHI wins in:  6
+DAL wins in:  4
+SJS wins in:  6
+*** playing round  2  ***
+CHI wins in:  6
+SJS wins in:  6
+*** playing round  3  ***
+SJS wins in:  5
+*** playing round  1  ***
+BOS wins in:  4
+MTL wins in:  6
+PIT wins in:  7
+NYR wins in:  4
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  6
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+CHI wins in:  5
+ANA wins in:  6
+SJS wins in:  5
+*** playing round  2  ***
+MIN wins in:  6
+SJS wins in:  6
+*** playing round  3  ***
+MIN wins in:  7
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  5
+PIT wins in:  6
+NYR wins in:  5
+*** playing round  2  ***
+TBL wins in:  4
+NYR wins in:  5
+*** playing round  3  ***
+NYR wins in:  7
+NYR wins in:  6
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  6
+CHI wins in:  7
+ANA wins in:  7
+SJS wins in:  5
+*** playing round  2  ***
+MIN wins in:  7
+ANA wins in:  5
+*** playing round  3  ***
+MIN wins in:  5
+*** playing round  1  ***
+BOS wins in:  5
+MTL wins in:  6
+CBJ wins in:  5
+NYR wins in:  5
+*** playing round  2  ***
+BOS wins in:  4
+NYR wins in:  7
+*** playing round  3  ***
+NYR wins in:  6
+NYR wins in:  4
+	The cup goes to: NYR
+*** playing round  1  ***
+MIN wins in:  5
+STL wins in:  7
+ANA wins in:  6
+SJS wins in:  6
+*** playing round  2  ***
+STL wins in:  7
+SJS wins in:  4
+*** playing round  3  ***
+STL wins in:  5
+*** playing round  1  ***
+DET wins in:  6
+TBL wins in:  6
+PIT wins in:  5
+NYR wins in:  6
+*** playing round  2  ***
+TBL wins in:  7
+NYR wins in:  4
+*** playing round  3  ***
+NYR wins in:  5
+NYR wins in:  6
+	The cup goes to: NYR
+after 1000 iterations, the winner is:
+NYR
+COL 32
+MIN 15
+STL 161
+CHI 24
+ANA 29
+DAL 31
+SJS 57
+LAK 110
+BOS 117
+DET 10
+TBL 25
+MTL 57
+PIT 29
+CBJ 31
+NYR 265
+PHI 7

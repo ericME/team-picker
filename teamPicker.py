@@ -1,5 +1,7 @@
 import random
 import math
+import itertools
+import operator
 
 #monkey fix the random module
 sr = random.SystemRandom()
@@ -9,6 +11,7 @@ random.randint = sr.randint
 #declare some global vars
 g_round_num = 0
 g_final_bkt = []
+g_curr_bkt = []
 
 class Team:
 	def __init__(self, name, rank, sapg, gapg, sfpg, gfpg):
@@ -53,7 +56,7 @@ def play_rounds(division, max_rounds = 3):
 	return rnd.nextround[0]
 
 def play_series(teams, max_games = 7):
-	global g_final_bkt
+	global g_curr_bkt
 	series_clinched = math.floor(max_games/2 + 1)
 	for team in teams:
 		team.reset_games()
@@ -62,7 +65,7 @@ def play_series(teams, max_games = 7):
 		for team in teams:
 			if team.games_won >= series_clinched:
 				#print (team.name, "wins in: ", game)
-				g_final_bkt.append([g_round_num,team.name,game])
+				g_curr_bkt.append(team.name)
 				return team
 	print ("error")
 	exit(0)
@@ -95,6 +98,23 @@ def play_game(teams, lo_range = 1, hi_range = 101):
 			teams[b].won_a_game()
 	#print (teams[a].name, goals[a], teams[b].name, goals[b]) #debug
 
+def most_common(L):
+	# get an iterable of (item, iterable) pairs
+	SL = sorted((x, i) for i, x in enumerate(L))
+	print ('SL:', SL)
+	groups = itertools.groupby(SL, key=operator.itemgetter(0))
+	# auxiliary function to get "quality" for an item
+	def _auxfun(g):
+		item, iterable = g
+		count = 0
+		min_index = len(L)
+		for _, where in iterable:
+			count += 1
+			min_index = min(min_index, where)
+			print ('item %r, count %r, minind %r' % (item, count, min_index))
+		return count, -min_index
+	# pick the highest-count/earliest item
+	return max(groups, key=_auxfun)[0]
 #western conf teams
 COL = Team('COL', 1, 32.7, 2.63, 29.5, 2.99)
 MIN = Team('MIN', 4, 27.7, 2.41, 26.6, 2.43)
@@ -143,15 +163,20 @@ for i in range (m):
 	western_champs = play_rounds(west)
 	eastern_champs = play_rounds(east)
 	#play for the cup
+	g_curr_bkt.append("stanley")
 	winners.append(play_series([western_champs, eastern_champs]).name)
+	g_final_bkt.append(g_curr_bkt)
+	g_curr_bkt = []
 print ("after", m, "iterations, the winner is:")
-stanley = (max(set(winners), key=winners.count))
-print stanley
+stanley_pick = (max(set(winners), key=winners.count))
+print (stanley_pick)
+stanley_brkt = most_common(g_final_bkt)
 for team in west:
 	print (team.name, winners.count(team.name))
 for team in east:
 	print (team.name, winners.count(team.name))
-#print g_final_bkt
-for ls in g_final_bkt:
-	if stanley in ls:
-		print ls
+# for bracket in g_final_bkt:
+# 	if stanley_pick == bracket[-1]:
+# 		print (bracket)
+print ("the most common bracket:")
+print (stanley_brkt)
